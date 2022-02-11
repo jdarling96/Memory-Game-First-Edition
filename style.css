@@ -1,0 +1,64 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+
+body {
+height: 100vh;
+background-color: blue;
+
+}
+
+h1 {
+  position: relative;
+  top: 10px;
+  left: 40%;
+}
+
+#game {
+position: relative;
+top: 25%;
+
+
+}
+
+#game div {
+  background-color: black;
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-flex;
+  flex-direction: row;
+  position: relative;
+  
+  
+}
+
+div {
+  
+}
+
+
+
+
+ /* img.back-face{
+  content: url();
+}
+ img.front-face{
+  height: 100%;
+  width: 100%;
+  content: url(https://w7.pngwing.com/pngs/463/913/png-transparent-car-motorcycle-helmets-computer-icons-bicycle-small-motorcycle-thumbnail.png);
+  border-radius: 10px;
+  padding: 1px;
+}                   
+
+
+div.red {
+
+
+
+}
